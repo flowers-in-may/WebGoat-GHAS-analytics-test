@@ -7,7 +7,7 @@
 [![Gitter](https://badges.gitter.im/OWASPWebGoat/community.svg)](https://gitter.im/OWASPWebGoat/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Discussions](https://img.shields.io/github/discussions/WebGoat/WebGoat)](https://github.com/WebGoat/WebGoat/discussions)
 
-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
+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
 
 # Introduction
 
